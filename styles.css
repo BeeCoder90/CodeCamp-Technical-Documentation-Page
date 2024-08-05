@@ -40,11 +40,12 @@ body{
     transition: 0.3s;
     padding: 15px; 
     width: 100px;
-    text-decoration: none;
+    text-decoration: underline;
     font-size: 20px;
     color: #ea9d3e;
     border-radius: 0 5px 5px 0;
     overflow: hidden;
+    font-weight: 500;
       }
       #navbar a:hover{
         left: 0;
@@ -79,6 +80,8 @@ body{
         text-decoration: underline;
         font-size: 26px;
         background-color: #312f17;
+        height: 75px;
+        padding-top: 15px;
       }
   main{
     padding-top: 20px;
