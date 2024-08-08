@@ -83,9 +83,6 @@ body{
         height: 75px;
         padding-top: 15px;
       }
-  main{
-    padding-top: 20px;
-  }
   .group-1{
     display: inline-block;
     margin: 0 auto;
@@ -131,6 +128,7 @@ body{
   main{
     background-color: #e5ac3f;
     color: #312f17;
+    padding-top: 20px;
   }
   footer{
    background-image: radial-gradient(circle, #ea9d3e, #e5ac3f, #e5bd3f, #eec33d, #312f17);
